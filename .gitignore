@@ -1,0 +1,17 @@
+# Git ignored file index
+*.txt
+*.jpg
+*.jpeg
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+
+
+production/postcss/css
+production/postcss/fonts
+production/postcss/js/
+production/postcss/img/
+production/postcss/lib/
+psd/
+node_modules/
