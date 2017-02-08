@@ -4,6 +4,8 @@
 *.jpeg
 *.zip
 *.gz
+*.doc
+*.docx
 log/*.log
 log/*.log.[0-9]
 
