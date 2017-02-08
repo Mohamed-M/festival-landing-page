@@ -1,0 +1,14 @@
+.bg-video { position: relative; }
+
+.bg-video-wrap .video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -999;
+
+  min-height: 100%;
+  min-width: 100%;
+
+  background-color: rgba(32,54,56,0.9);
+}
