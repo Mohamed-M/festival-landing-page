@@ -1,0 +1,51 @@
+header {
+  position: relative;
+  padding: $spacing-default 0;
+}
+
+.main-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  max-width: 100rem;
+  margin: 0 auto;
+  height: 6rem;
+  padding: 0 4rem;
+
+  background-color: $color-text-secondary;
+}
+
+.main-navigation .logo {
+  font-family: $font-secondary;
+  font-size: 2.6rem;
+  font-style: italic;
+  font-weight: 700;
+  color: $color-text-primary;
+}
+
+.main-navigation ul {
+  display: flex;
+  justify-content: space-around;
+  max-width: 52.8rem
+}
+
+.main-navigation ul a {
+  margin: 0 0 0 2rem;
+
+  border-bottom: .1rem solid $color-text-secondary;
+
+  letter-spacing: 0.14em;
+  font-size: 1.4rem;
+  font-weight: 700;
+  font-family: $font-primary;
+  text-transform: uppercase;
+  color: $color-text-primary;
+
+  transition: all .5s ease;
+
+  &:hover {
+    border-bottom: .1rem solid #000;
+  }
+
+}
