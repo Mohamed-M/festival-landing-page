@@ -1,0 +1,22 @@
+/* Font and Font Sizing*/
+$font-primary: "Source Sans Pro", sans-serif;
+$font-secondary: 'Playfair Display', serif;
+$font-base-size: 1.6rem;
+
+/* Colors */
+$color-text-primary: #242424;
+$color-text-secondary: #f8f8f8;
+
+$color-link: blue;
+
+$color-hr: #e6e6e6;
+
+$spacing-default: 2.8rem;
+
+/* Media Screen Shorthand */
+$small: screen and (min-width: 60rem);
+$medium: screen and (min-width: 90rem);
+$large: screen and (min-width: 120rem);
+
+$container-default-width: 80%;
+$container-max-width: 95rem;
