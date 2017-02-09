@@ -9,8 +9,6 @@
 log/*.log
 log/*.log.[0-9]
 
-
-production/postcss/*
 !production/postcss/index.html
 psd/
 node_modules/
