@@ -1,7 +1,7 @@
 # Lake Avenue Festival
 
 A faux festival landing page. 
-View the page here: https://mohamed-m.github.io/lake_ave_festival/
+View the page here: https://mohamed-m.github.io/festival-landing-page/
 
 ## Getting Started
 
