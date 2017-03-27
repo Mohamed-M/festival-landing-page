@@ -14,9 +14,8 @@ $color-hr: #e6e6e6;
 $spacing-default: 2.8rem;
 
 /* Media Screen Shorthand */
-$small: screen and (min-width: 60rem);
-$medium: screen and (min-width: 90rem);
-$large: screen and (min-width: 120rem);
+$small: screen and (min-width: 40rem); /* 640px */
+$medium: screen and (min-width: 60rem); /* 960px */
 
 $container-default-width: 80%;
-$container-max-width: 95rem;
+$container-max-width: 100rem; /* 1000px */
