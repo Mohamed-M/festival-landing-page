@@ -1,7 +1,7 @@
 # Lake Avenue Festival
 
 A faux festival landing page. 
-View the page here: https://mohamed-m.github.io/lake_ave_festival/
+View the page here: https://mohamed-m.github.io/festival-landing-page/
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 Copy the git repository to your local folder:
 ```
-git clone https://github.com/Mohamed-M/lake_ave_festival.git
+git clone https://github.com/Mohamed-M/lake-ave-festival.git
 ```
 
 Run the NPM installer, which will run the package.json file and install all the necessary dependencies (i.e. PostCSS plugins):
