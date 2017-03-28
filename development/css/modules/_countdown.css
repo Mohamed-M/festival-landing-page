@@ -63,7 +63,7 @@
 .banner a.cta-more-info {
   display: block;
 
-  margin: 0 auto;
+  margin: 0 auto $spacing-default;
   padding: 2rem 3.2rem;
   width: 19.2rem;
 
