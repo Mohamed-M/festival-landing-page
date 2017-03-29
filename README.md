@@ -1,7 +1,9 @@
 # Lake Avenue Festival
 
-A faux festival landing page. 
+A faux festival landing page.
 View the page here: https://mohamed-m.github.io/festival-landing-page/
+
+See this landing page on a production site: http//www.raisinthehammer.org
 
 ## Getting Started
 
